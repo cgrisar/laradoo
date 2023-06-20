@@ -17,7 +17,7 @@
         "version": "1.0.0",
         "type": "php",
         "source": {
-          "url": "https://github.com/daggerhart/my-custom-theme.git",
+          "url": "https://github.com/cgrisar/laradoo.git",
           "type": "git",
           "reference": "master"
         }
