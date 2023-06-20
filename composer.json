@@ -9,20 +9,6 @@
             "email": "charles.grisar@gmail.com"
         }
     ],
-    "repositories": [
-    {
-      "type": "package",
-      "package": {
-        "name": "cgrisar/laradoo",
-        "version": "1.0.0",
-        "type": "php",
-        "source": {
-          "url": "https://github.com/cgrisar/laradoo.git",
-          "type": "git",
-          "reference": "master"
-        }
-      }
-    }
     "autoload": {
       "psr-4": {
         "Cgrisar\\Laradoo\\": "src/"
