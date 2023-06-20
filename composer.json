@@ -9,6 +9,20 @@
             "email": "charles.grisar@gmail.com"
         }
     ],
+    "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "cgrisar/laradoo",
+        "version": "1.0.0",
+        "type": "php",
+        "source": {
+          "url": "https://github.com/daggerhart/my-custom-theme.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    }
     "autoload": {
       "psr-4": {
         "Cgrisar\\Laradoo\\": "src/"
